@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "Task-Tracker"
+  "defaultProject": "Task-Tracker",
+  "cli": {
+    "analytics": false
+  }
 }
